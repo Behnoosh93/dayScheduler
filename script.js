@@ -17,6 +17,7 @@ $(document).ready(function () {
 		{ timeString: "3PM", timeNumber: 15 },
 		{ timeString: "4PM", timeNumber: 16 },
 		{ timeString: "5PM", timeNumber: 17 },
+		{ timeString: "6PM", timeNumber: 17 },
 	];
     for (let i = 0; i < appointments.length; i++) {
 		var time = appointments[i];
